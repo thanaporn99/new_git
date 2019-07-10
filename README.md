@@ -1,2 +1,2 @@
-# new_git
+# สมาชิกในกลุ่ม
 thanaporn
